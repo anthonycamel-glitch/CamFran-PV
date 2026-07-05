@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 180" role="img" aria-label="Casa Ley">
+  <rect width="420" height="180" rx="26" fill="#ffffff"/>
+  <path d="M55 45h310l-28 90H84z" fill="#fff" stroke="#111111" stroke-width="10" stroke-linejoin="round"/>
+  <text x="105" y="124" font-family="Arial Black, Arial, sans-serif" font-size="78" fill="#d71920" transform="skewX(-8)">Ley</text>
+</svg>
